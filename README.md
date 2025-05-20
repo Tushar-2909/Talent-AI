@@ -17,5 +17,5 @@ Deployment: Vercel / Firebase Hosting (suggested)
 
 ⚙️ Setup & Installation
 Clone the Repository
-git clone https://github.com/vedangrajoriya/ai-job-assistant.git
+git clone https://github.com/Tushar-2909/ai-job-assistant.git
 cd ai-job-assistant
